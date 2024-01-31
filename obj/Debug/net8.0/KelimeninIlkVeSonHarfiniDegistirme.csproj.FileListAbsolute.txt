@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\bin\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\bin\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\bin\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\bin\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\bin\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\refint\KelimeninIlkVeSonHarfiniDegistirme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\KelimeninIlkVeSonHarfiniDegistirme.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\KelimeninIlkVeSonHarfiniDegistirme\obj\Debug\net8.0\ref\KelimeninIlkVeSonHarfiniDegistirme.dll
